@@ -82,3 +82,39 @@ section {
   color: #364147;
 }
 
+.header.nav {
+  border-bottom: 1px #a0a0a0;
+}
+
+.brand {
+  width: 170px;
+  height: 85px;
+  margin-left: -15px;
+}
+
+.logo {
+  width: 100%;
+  height: auto;
+}
+
+.search-box {
+  padding: 6px 12px;
+  width: 330px;
+  height: 30px;
+  border: 1px #a0a0a0;
+}
+
+.search-button {
+  background-color: #a0a0a0;
+  color: white;
+  width: 100px;
+  height: 30px;
+  border: 0;
+  padding: 0;
+}
+
+.nav-list {
+  padding-left: 0;
+  width: 575px;
+  margin-top: 10px;
+}
