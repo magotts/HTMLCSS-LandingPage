@@ -126,3 +126,28 @@ section {
   letter-spacing: 0.2px;
   font-weight: 700;
 }
+
+.profile {
+  margin-left: auto;
+}
+
+.account {
+  padding: 15px;
+  color: #364147;
+  text-align: right;
+  font-size: 18px;
+}
+
+.account a {
+  font-size: 14px;
+}
+
+.profile-pic {
+  width: 60px;
+  height: 60px;
+}
+
+.profile-pic img {
+  border-radius: 100px;
+  max-width: 100%;
+}
