@@ -304,7 +304,7 @@ footer {
   background-color: black;
 }
 
-.footer:after {
+footer:after {
   content: "";
   background-color: #a0a0a0;
   width: 75%;
